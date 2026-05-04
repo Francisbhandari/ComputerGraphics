@@ -366,7 +366,7 @@ void display2(){
 		past.death();
 	if(future.isDead())
 		future.death();
-	display_text(100, WINDOW_SIZE/2, "MURDERER", 1);
+	display_text(100, WINDOW_SIZE/2, "FATALITY", 1);
 }
 
 void display(){
